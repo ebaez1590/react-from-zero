@@ -1,0 +1,20 @@
+{
+  "name": "react-from-zero",
+  "version": "1.0.0",
+  "description": "Bases de react desde cero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebaez1590/react-from-zero.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebaez1590/react-from-zero/issues"
+  },
+  "homepage": "https://github.com/ebaez1590/react-from-zero#readme"
+}
